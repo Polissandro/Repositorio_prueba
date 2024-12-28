@@ -1,2 +1,2 @@
-print("puto")
+print("puto el que lee")
 
